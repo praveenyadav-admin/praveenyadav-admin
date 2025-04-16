@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Praveen Yadav
 
-<!--
-**praveenyadav-admin/praveenyadav-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a Class 11 student at Lucknow Public School, India — passionate about Web Development, Space Tech, and solving real-world problems with code.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: JavaScript, Python, React
+- 🛠️ Building: My portfolio website + unique tech projects
+- 🎯 Goal: Ivy League/MEXT Scholar | Engineer | Innovator
+- 📚 Subjects: Physics | Chemistry | Maths | Comp Sci
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Projects Coming Soon
+- Portfolio Website using Next.js
+- AI-based Self-Study Tracker
+- Class 9–10 Physics Visualizer App
+
+## 📫 Connect With Me
+- 📧 Email: praveenyadav.contact@gmail.com
+- 🌐 Website: coming soon!
+- 🔗 LinkedIn: www.linkedin.com/in/praveen-yadav333
+
+---
+⭐ Stay tuned — my journey's just beginning!
